@@ -48,7 +48,7 @@ personal-finance-tracker
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd Personal-Finance-Tracker
+   cd personal-finance-tracker
    ```
 
 2. Build and start the Docker containers:
